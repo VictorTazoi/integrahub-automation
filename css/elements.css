@@ -1,0 +1,14 @@
+.caixa-input{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    max-width: 400px;
+    height: 100vh;
+    padding-bottom: 6em;
+}
+
+.card-input{
+    width: 100%;
+}
